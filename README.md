@@ -24,6 +24,13 @@ If you want to install an older version.
 curl https://raw.githubusercontent.com/vincent5753/KAIS/main/legacy/Ubuntu2004-K8s_1_24-containerd-flannel.sh | bash
 ```
 
+## VMware 安裝k8s方式
+
+bash ./
+
+參考:
+https://josnote.com/?p=520#%E5%BB%BA%E7%AB%8B_Kubernetes_Control-Plane_Node
+
 ### 拆環境 / Clean up
 快速拆除 / Clean up in one line
 ```
