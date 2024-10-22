@@ -25,8 +25,11 @@ curl https://raw.githubusercontent.com/vincent5753/KAIS/main/legacy/Ubuntu2004-K
 ```
 
 ## VMware 安裝k8s方式
+ubuntu version is ubuntu22-04
 
-bash ./
+```
+bash ./vmware-ubuntu22-04.bash
+```
 
 參考:
 https://josnote.com/?p=520#%E5%BB%BA%E7%AB%8B_Kubernetes_Control-Plane_Node
